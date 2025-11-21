@@ -117,7 +117,7 @@ The last quarter of 2012 showed the highest demand
 
 🚀 How to Run the Project
 1. Clone the Repository
-git clone https://github.com/yourusername/walmart-sales-analysis.git
+git clone https://github.com/thechhub/Retail-Sales-BI-Project
 cd walmart-sales-analysis
 
 2. Install Required Libraries
