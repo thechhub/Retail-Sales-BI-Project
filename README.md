@@ -73,12 +73,8 @@ Customer-level analysis
 Correlation heatmaps
 Detecting outlier
 
-4️⃣ SQL Analysis
-Top-selling categories
-Region-wise revenue
-Monthly/quarterly breakdown
-Most profitable products
-High-discount vs low-discount performance
+4️⃣ SQL DataBase
+Converting the Database.csv into MySQL database
 
 5️⃣ Visualization & BI Dashboard
 Created using Power BI:
