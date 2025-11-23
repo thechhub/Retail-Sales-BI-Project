@@ -98,7 +98,7 @@ The last quarter of 2012 showed the highest demand
 📦 Project Structure
 📁 walmart-sales-analysis
 │
-├── 📄 README.md
+├── 📄 README.md & project Report
 ├── 📂 data
 │   └── walmart_sales_2012.csv
 │
