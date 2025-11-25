@@ -97,11 +97,13 @@ The last quarter of 2012 showed the highest demand
 ├── 📄 README.md & project Report
 ├── 📂 data
 │   └── walmart_sales_2012.csv
+|   └── Cleaned_sales_data.csv
+|   └── my_data.sql
 │
 ├── 📂 notebooks
 │   ├── 1_data_cleaning.ipynb
-│   ├── 2_eda.ipynb
-│   └── 3_sql_queries.ipynb
+│   ├── 2_num_and_graphs.ipynb
+│   
 │
 ├── 📂 dashboards
 │   └── powerbi_dashboard.pbix
@@ -109,7 +111,8 @@ The last quarter of 2012 showed the highest demand
 └── 📂 src
     ├── cleaning.py
     ├── analysis.py
-    └── visualization.py
+    └── conerting(csv)to(mysql)database
+    
 
 🚀 How to Run the Project
 1. Clone the Repository
