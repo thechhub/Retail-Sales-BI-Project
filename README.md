@@ -141,3 +141,14 @@ Git & GitHub workflow
 📬 Contact
 
 If you would like to discuss this project or collaborate, feel free to reach out!
+
+<img width="1119" height="641" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/56cbd715-f67b-40c6-acd5-3041951b2ff7" />
+<img width="1221" height="538" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/c5a6d987-3286-4dbd-b80b-729fa57c8fcb" />
+<img width="1221" height="538" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/94cd4861-34cb-4285-adbc-ec23e0342d6d" />
+<img width="1189" height="676" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/8ac07cab-edbb-4129-a828-59e1c0f24adb" />
+
+<img width="<img width="1188" height="741" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/56a8b0ed-c286-4690-9070-cac9d4aee405" />
+1196"<img width="824" height="629" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/02314e5b-2848-418f-bbe8-626f4ba03a1f" />
+ height="673" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/66c4a4d8-ebda-470a-b91a-d5962e98c0da" />
+<img width<img width="1219" height="674" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/d80ad333-96f9-41ca-8aaf-a6072ce90822" />
+="1189" height="622" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/13543e61-fb94-46db-ae15-f1c6e7dfe4d0" />
