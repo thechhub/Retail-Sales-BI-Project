@@ -141,6 +141,8 @@ Git & GitHub workflow
 📬 Contact
 
 If you would like to discuss this project or collaborate, feel free to reach out!
+<img width="1005" height="556" alt="image" src="https://github.com/user-attachments/assets/ce2e4f3f-422d-48c8-9127-7de756e46652" />
+
 
 <img width="1119" height="641" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/56cbd715-f67b-40c6-acd5-3041951b2ff7" />
 <img width="1221" height="538" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/c5a6d987-3286-4dbd-b80b-729fa57c8fcb" />
